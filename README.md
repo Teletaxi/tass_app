@@ -1,3 +1,6 @@
+# v1.241031.3
+Correction du menu de l'application et ajout du "Note de mise à jour".
+
 # v1.241031.2
 Correction de l'affichage de la liste des trajets/prestations pour les prescriptions. Elle s'affiche de nouveau correctement.
 

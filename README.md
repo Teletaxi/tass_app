@@ -1,3 +1,7 @@
+# v1.241115.1
+Ajout de fonctionnalités:
+  - Implémentation des note au niveau des prescriptions, trajets, prestations et factures.
+
 # v1.241113.1
 Ajout de fonctionnalités:
   - Génération de tarification pour les prestations en groupe.

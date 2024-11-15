@@ -1,6 +1,7 @@
 # v1.241115.1
 Ajout de fonctionnalités:
   - Implémentation des note au niveau des prescriptions, trajets, prestations et factures.
+  - Lors de la fermeture du logiciel TASS, une requête de déconnexion de l'utilisateur est automatiquement envoyé, évitant ainsi les sessions ouvertes d'utilisateurs ayant leur logiciel TASS fermé.
 
 # v1.241113.1
 Ajout de fonctionnalités:

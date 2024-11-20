@@ -1,3 +1,7 @@
+# v1.241120.1
+Correction de bug:
+  - L'annulation/correction de facture, se réalise sans erreur.
+
 # v1.241115.1
 Ajout de fonctionnalités:
   - Implémentation des note au niveau des prescriptions, trajets, prestations et factures.

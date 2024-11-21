@@ -1,3 +1,11 @@
+#v1.241121.1
+Fonctionnalités:
+  - Ajoute un bouton pour avoir un détail des bénéficiaire dans les prescriptions papier et électronique.
+  - Une colonne détail du trajet à été ajouté dans la liste des prestations des trajets.
+  
+Correction de bug:
+  - Calcul des lots pour les factures B2 et Sefi.
+
 # v1.241120.1
 Correction de bug:
   - L'annulation/correction de facture, se réalise sans erreur.

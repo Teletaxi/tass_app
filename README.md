@@ -1,4 +1,4 @@
-#v1.241121.1
+# v1.241121.1
 Fonctionnalités:
   - Ajoute un bouton pour avoir un détail des bénéficiaire dans les prescriptions papier et électronique.
   - Une colonne détail du trajet à été ajouté dans la liste des prestations des trajets.

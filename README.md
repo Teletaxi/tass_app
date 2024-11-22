@@ -1,3 +1,8 @@
+#v1.241122.1
+Correction de bug:
+  - Affichaage des trajets commanditaire dans la feuille de route.
+  - Les trajets importé ne sont plus prient en compte pour le test des cheveauchements.
+
 # v1.241121.1
 Fonctionnalités:
   - Ajoute un bouton pour avoir un détail des bénéficiaire dans les prescriptions papier et électronique.

@@ -1,7 +1,12 @@
-#v1.241122.1
+# v1.241125.1
+Correction de bug:
+  - Correction de la vérification des chevauchements.
+  - La répartition du temps lors du calcul de la tarification ce fait correctement.
+
+# v1.241122.1
 Correction de bug:
   - Affichaage des trajets commanditaire dans la feuille de route.
-  - Les trajets importé ne sont plus prient en compte pour le test des cheveauchements.
+  - Les trajets importé ne sont plus prient en compte pour le test des chevauchements.
 
 # v1.241121.1
 Fonctionnalités:

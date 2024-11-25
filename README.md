@@ -1,3 +1,7 @@
+# v1.241125.2
+Fonctionnalités:
+  - Les trajets importés sont ignorés pour la vérification des chevauchements.
+
 # v1.241125.1
 Correction de bug:
   - Correction de la vérification des chevauchements.

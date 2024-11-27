@@ -1,3 +1,7 @@
+# v1.241127.1
+Correction de bug:
+  - Correcion de la génération des tarifications pour les prestations en serie.
+
 # v1.241125.2
 Fonctionnalités:
   - Les trajets importés sont ignorés pour la vérification des chevauchements.

@@ -1,3 +1,10 @@
+# v1.241204.1
+Correction de bug:
+  - Déterminer les tiers payants pour l'AMO/AMC quand on génère les tarifications pour les séries.
+
+Fonctionnalités:
+  - Ajout du partage des prescriptions et des factures par mail.
+
 # v1.241127.1
 Correction de bug:
   - Correcion de la génération des tarifications pour les prestations en serie.

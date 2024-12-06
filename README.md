@@ -1,3 +1,7 @@
+# v1.241206.1
+Correction de bug:
+  - Les partages pour les factures et les pjs se font correctement.
+
 # v1.241204.1
 Correction de bug:
   - Déterminer les tiers payants pour l'AMO/AMC quand on génère les tarifications pour les séries.

@@ -1,7 +1,7 @@
 # v1.241207.1
 Correction de bug:
   - Lors de la génération des tarifications en série, la complétion des information de géolocalisation se réalise correctement.
-  - LA génération des majorations de nuit se font correctement.
+  - La génération des majorations de nuit se font correctement.
 
 # v1.241206.1
 Correction de bug:

@@ -1,3 +1,7 @@
+# v1.241210.1
+Correction de bug:
+  - Le service acquerir prescription ne renvoi plus la prescription de test. 
+
 # v1.241207.1
 Correction de bug:
   - Lors de la génération des tarifications en série, la complétion des information de géolocalisation se réalise correctement.

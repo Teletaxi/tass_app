@@ -1,3 +1,7 @@
+# v1.241210.2
+Correction de bug:
+  - Génération de la géolocalisation, couvertures AMO et AMC des tarifications des trajets en serie.
+
 # v1.241210.1
 Correction de bug:
   - Le service acquerir prescription ne renvoi plus la prescription de test. 

@@ -1,3 +1,7 @@
+# v1.241212.1 
+Finctionnalités:
+  - Impléménetation de protection, d'avertissement et d'information sur les destinataires des remboursements de la Sécurité Sociale.
+
 # v1.241210.2
 Correction de bug:
   - Génération de la géolocalisation, couvertures AMO et AMC des tarifications des trajets en serie.

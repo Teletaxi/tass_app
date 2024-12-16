@@ -1,5 +1,9 @@
+# v1.241216.1
+Correction de bug:
+  - Génération des tarifs sur les trajets retour seulement.
+
 # v1.241212.1 
-Finctionnalités:
+Fonctionnalités:
   - Impléménetation de protection, d'avertissement et d'information sur les destinataires des remboursements de la Sécurité Sociale.
 
 # v1.241210.2

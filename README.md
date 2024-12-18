@@ -1,3 +1,10 @@
+# v1.241218.1
+Correction de bug:
+  - Les dates dans les annexes et les factures correspondent bien au premier transport et au dernier transport.
+
+Fonctionnalités:
+  - Il n'est pas nécessaire d'enregistrer manuellement les AMOs et de les compléter. C'est automatique.
+
 # v1.241216.1
 Correction de bug:
   - Génération des tarifs sur les trajets retour seulement.

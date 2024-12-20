@@ -1,3 +1,8 @@
+# v1.241220.1
+Fonctionnalités:
+  - Il est possible de faire basculer une nature de trajet Aller/Retour, tout en supprimant la prestation tarifaire, tant que le trajet n'est pas facturé.
+  - Il est maintenant possible de regénérer en groupe les PDF factures et annexes.
+
 # v1.241218.1
 Correction de bug:
   - Les dates dans les annexes et les factures correspondent bien au premier transport et au dernier transport.

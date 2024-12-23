@@ -1,3 +1,8 @@
+# v1.241223.1
+Corrections:
+  - Les générations de factures / annexes vierge sont à présent corrigées.
+  - Certaines factures pdf ne présentent pas les bonnes données, ceci est à présent corrigé.
+
 # v1.241220.1
 Fonctionnalités:
   - Il est possible de faire basculer une nature de trajet Aller/Retour, tout en supprimant la prestation tarifaire, tant que le trajet n'est pas facturé.

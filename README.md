@@ -1,3 +1,7 @@
+# v1.241226.1
+Corrections:
+  - Génération des annexes ce fait correctement.
+
 # v1.241223.1
 Corrections:
   - Les générations de factures / annexes vierge sont à présent corrigées.

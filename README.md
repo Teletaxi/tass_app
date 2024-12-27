@@ -1,3 +1,7 @@
+# v1.241227.1
+Fonctionnalités:
+  - Il est maintenant possible de dupliquer une prescription.
+
 # v1.241226.1
 Corrections:
   - Génération des annexes ce fait correctement.

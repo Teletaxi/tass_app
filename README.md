@@ -1,3 +1,7 @@
+# v1.241230.2
+Corrections:
+  - Dans la génération des factures PDF, s'il y a plus qu'un trajet aller - retour, c'est le premier trajet et le dernier trajet qui sont prit en compte dans le détail de la facture.
+
 # v1.241230.1
 Corrections:
   - La regénération des annexes PDF comprend bien tous les trajets facturés.

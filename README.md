@@ -1,3 +1,7 @@
+# v1.241230.1
+Corrections:
+  - La regénération des annexes PDF comprend bien tous les trajets facturés.
+    
 # v1.241227.1
 Fonctionnalités:
   - Il est maintenant possible de dupliquer une prescription.

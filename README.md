@@ -1,4 +1,4 @@
-# v1.250105.1
+# v1.250105.2
 Corrections:
   - Sur les factures PDF TS report des montants AMC et RAC sur la part assuré.
 

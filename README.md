@@ -1,3 +1,10 @@
+# v1.250105.1
+Corrections:
+  - Sur les factures PDF TS report des montants AMC et RAC sur la part assuré.
+
+Fonctionnalités:
+  - Les lettres AMC sont complétées par les numéros AMC et adhérent.
+
 # v1.241230.2
 Corrections:
   - Dans la génération des factures PDF, s'il y a plus qu'un trajet aller - retour, c'est le premier trajet et le dernier trajet qui sont prit en compte dans le détail de la facture.

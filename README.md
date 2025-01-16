@@ -1,3 +1,10 @@
+# v1.250116.1
+Corrections:
+  - Indication des périodes Jour, Nuit, Férié fontionnement correctement dans la norme B2.
+
+Fonctionnalités:
+  - Ajout de détail dans la feuille de route au sujet des trajets. Exemeple affichage du prix du trajet.
+
 # v1.250105.2
 Corrections:
   - Sur les factures PDF TS report des montants AMC et RAC sur la part assuré.

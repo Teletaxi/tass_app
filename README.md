@@ -1,3 +1,10 @@
+# v1.250120.1
+Correction:
+  - Le nombre de malade dans un transport est correctement défini lors d'un transport simultané en VSL.
+
+Fonctionnalités:
+  - Prise en charge d'une date de facture ou de transport pour le chiffre d'affaire.
+
 # v1.250116.1
 Corrections:
   - Indication des périodes Jour, Nuit, Férié fontionnement correctement dans la norme B2.

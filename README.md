@@ -1,3 +1,7 @@
+# v1.250121.1
+Fonctionnlités:
+  - Amélioration de la lisibilité des factures non émises et non payées.
+
 # v1.250120.1
 Correction:
   - Le nombre de malade dans un transport est correctement défini lors d'un transport simultané en VSL.

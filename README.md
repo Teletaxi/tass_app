@@ -1,5 +1,10 @@
+# v1.250122.2
+Fonctionnalités:
+  - Ajout des totaux des facturés et perçus dans les factures.
+  - Ajout d'une configuration pour les anciennes boites mail RSP de Téléambu.
+
 # v1.250121.1
-Fonctionnlités:
+Fonctionnalités:
   - Amélioration de la lisibilité des factures non émises et non payées.
 
 # v1.250120.1

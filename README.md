@@ -1,3 +1,7 @@
+# v1.250124.1
+Fonctionnalités:
+  - Il est maintenant possible de charger plusieurs fichiers NOEMIE en même temps pour les traiter.
+
 # v1.250122.2
 Fonctionnalités:
   - Ajout des totaux des facturés et perçus dans les factures.

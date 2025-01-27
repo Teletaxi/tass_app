@@ -1,3 +1,7 @@
+# v1.250127.1
+Fonctionnalités:
+  - Implémentation d'une recharche par numéro de lot.
+
 # v1.250124.1
 Fonctionnalités:
   - Il est maintenant possible de charger plusieurs fichiers NOEMIE en même temps pour les traiter.

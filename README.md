@@ -1,3 +1,8 @@
+# v1.250128.1
+Corrections:
+  - Lors de la recherche de factures par numéro de lot, le filtrage ce fait correctement.
+  - Si l'on créer un bénéficiaire depuis une création de prescription, le bénéficiaire est correctement renseigné dans la prescription en cours de création.
+
 # v1.250127.1
 Fonctionnalités:
   - Implémentation d'une recharche par numéro de lot.

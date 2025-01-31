@@ -1,3 +1,9 @@
+# v1.250131.1
+Corrections: 
+  - Lors de calculer montants prestation avec la MSA, il y a un retrait de l'abattement à 0.
+  - Dans la fiche bénéficiaire, la récupération des informations bénéficiaire depuis le service de la sécurité sociale ce fait correctement.
+  - Quand un nouveau bénéficiaire est créé depuis la page des prescriptions, la liste des bénéficiaires se mets à jours.
+
 # v1.250128.1
 Corrections:
   - Lors de la recherche de factures par numéro de lot, le filtrage ce fait correctement.

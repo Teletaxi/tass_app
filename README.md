@@ -1,3 +1,7 @@
+# v1.250205.1
+Fonctionnalités:
+  - Ajout des dates des transports pour les factures.
+
 # v1.250131.1
 Corrections: 
   - Lors de calculer montants prestation avec la MSA, il y a un retrait de l'abattement à 0.

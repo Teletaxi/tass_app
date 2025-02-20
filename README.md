@@ -1,3 +1,7 @@
+# v1.250220.1
+Fonctionnalités:
+  - Calcul des CA automatique à interval régulier pour un gain de rapidité significatif lors de la récupération du chiffre d'affaire.
+
 # v1.250205.1
 Fonctionnalités:
   - Ajout des dates des transports pour les factures.

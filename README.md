@@ -1,3 +1,8 @@
+# v1.250225.1
+Corrections:
+  - Récupération correct des AMC dans les trajets.
+  - Amelioration des calculs des lots B2, SEFI pour la singularité des lots SCOR.
+
 # v1.250220.1
 Fonctionnalités:
   - Calcul des CA automatique à interval régulier pour un gain de rapidité significatif lors de la récupération du chiffre d'affaire.

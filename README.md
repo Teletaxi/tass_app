@@ -3,6 +3,9 @@ Corrections:
   - Amélioration du calcul des numéros de lots.
   - Lors de la génération du bordereau de télétransmission, une facture non créée en amont pouvez être vierge à ce moment là, ceci est corrigé.
 
+Fonctionnalités:
+  - Les personnels et les véhicules inactif, ce statut est maintenant remplacé par une date à partir de laquelle ce dernier est inactif. Celà permet de proposer ce véhicule/personnel ou non à dans une sélection.
+
 # v1.250225.1
 Corrections:
   - Récupération correct des AMC dans les trajets.

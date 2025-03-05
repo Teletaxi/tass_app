@@ -1,3 +1,8 @@
+# v1.250305.1
+Corrections:
+  - Amélioration du calcul des numéros de lots.
+  - Lors de la génération du bordereau de télétransmission, une facture non créée en amont pouvez être vierge à ce moment là, ceci est corrigé.
+
 # v1.250225.1
 Corrections:
   - Récupération correct des AMC dans les trajets.

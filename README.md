@@ -1,3 +1,7 @@
+# v1.250309.1
+Fonctionnalités:
+  - Export du journal des ventes au format Excel CSV.
+
 # v1.250305.1
 Corrections:
   - Amélioration du calcul des numéros de lots.

@@ -1,3 +1,7 @@
+# v1.250309.2
+Corrections:
+  - Remplacement des '.' par des ',' pour les montants des prix dans l'export CSV.
+
 # v1.250309.1
 Fonctionnalités:
   - Export du journal des ventes au format Excel CSV.

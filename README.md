@@ -1,3 +1,7 @@
+# v1.250309.3
+Corrections:
+  - Lors de la génération des tarifications pour les séries, les péages sont maintenant conservés. De plus lors de l'appel au service 'Calculer montant prestation' la comparaison avec les différents péages s'effectue correctement. 
+
 # v1.250309.2
 Corrections:
   - Remplacement des '.' par des ',' pour les montants des prix dans l'export CSV.

@@ -1,3 +1,7 @@
+# v1.250311.1
+Corrections:
+  - Après avoir fait l'appel au service Calculer montant prestation, le service ne renvoi pas la ligne de KM si elle vaut 0 euros, donc le logiciel la rajoute pour faire une comparaison correcte.
+
 # v1.250309.3
 Corrections:
   - Lors de la génération des tarifications pour les séries, les péages sont maintenant conservés. De plus lors de l'appel au service 'Calculer montant prestation' la comparaison avec les différents péages s'effectue correctement. 

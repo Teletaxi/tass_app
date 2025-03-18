@@ -1,3 +1,10 @@
+# v1.250317.1
+Fonctionnalités:
+  - Implémentation d'un annuaire des établissements de santé.
+
+Corrections:
+  - Mise à jour du calcul des chiffres d'affaire des sociétés.
+
 # v1.250311.1
 Corrections:
   - Après avoir fait l'appel au service Calculer montant prestation, le service ne renvoi pas la ligne de KM si elle vaut 0 euros, donc le logiciel la rajoute pour faire une comparaison correcte.

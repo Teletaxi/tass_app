@@ -1,3 +1,7 @@
+# v1.250318.1
+Corrections:
+  - Amelioration de la récupération de l'annuaire des établissements de santé.
+
 # v1.250317.1
 Fonctionnalités:
   - Implémentation d'un annuaire des établissements de santé.

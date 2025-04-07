@@ -1,6 +1,10 @@
+# v1.250407.1
+Fonctionnalités:
+  - Implémentation des annuaires des prescripteurs et établissements de santé.
+
 # v1.250318.1
 Corrections:
-  - Amelioration de la récupération de l'annuaire des établissements de santé.
+  - Amélioration de la récupération de l'annuaire des établissements de santé.
 
 # v1.250317.1
 Fonctionnalités:

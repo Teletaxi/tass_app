@@ -1,3 +1,11 @@
+# v1.250427.1
+Corrections:
+  - L'indicateur de période dans la norme B2 pour le dimanche apparait bien en férié (valeur F).
+    
+Fonctionnalités:
+  - Mise à jour majeur pour les lettres, maintenant il est possible d'editer des lettres comme sur un éditeur de texte.
+  - Les tableaux prescriptions, factures, chiffre d'affaire et journal des ventes proposent une exportation plus poussée de leurs données. Prise en charge de différent formats CSV, XML, JSON et voir PDF par l'impression PDF. De plus le partage par mail est proposé directement.
+
 # v1.250407.1
 Fonctionnalités:
   - Implémentation des annuaires des prescripteurs et établissements de santé.

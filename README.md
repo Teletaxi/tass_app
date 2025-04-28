@@ -1,3 +1,10 @@
+# v1.250428.1
+Corrections:
+  - Le passage de la tarification majorée à la tarification socle conserve maintenant la majoration nuit/férié pour la courte distance.
+
+Fonctionnalités:
+  - Ajouts dans les variables des lettres, le numéro d'adhérent AMC du bénéficiaire, dans les taleaux des factures on y retrouve une colonne pour les dates des trajets.
+
 # v1.250427.1
 Corrections:
   - L'indicateur de période dans la norme B2 pour le dimanche apparait bien en férié (valeur F).

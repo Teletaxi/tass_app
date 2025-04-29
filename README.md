@@ -1,3 +1,7 @@
+# v1.250429.2
+Corrections:
+  - N'autorise plus la sauvegarde d'une AMO si le triplet n'est pas complet.
+
 # v1.250429.1
 Corrections:
   - Réaffichage du libellé de l'AMO dans les factures PDF.

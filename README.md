@@ -1,3 +1,7 @@
+# v1.250429.1
+Corrections:
+  - Réaffichage du libellé de l'AMO dans les factures PDF.
+
 # v1.250428.1
 Corrections:
   - Le passage de la tarification majorée à la tarification socle conserve maintenant la majoration nuit/férié pour la courte distance.

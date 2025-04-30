@@ -1,3 +1,7 @@
+# v1.250430.1
+Corrections:
+ - Rétablissement de la facturation à 100% sur l'assuré (reste à charge à 100%).
+
 # v1.250429.2
 Corrections:
   - N'autorise plus la sauvegarde d'une AMO si le triplet n'est pas complet.

@@ -1,3 +1,7 @@
+# v1.250502.1
+Corrections:
+ - Répartition des parts AMO, AMC et RAC corrigées.
+
 # v1.250430.1
 Corrections:
  - Rétablissement de la facturation à 100% sur l'assuré (reste à charge à 100%).

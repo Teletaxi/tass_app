@@ -1,3 +1,7 @@
+# v1.250505.1
+Corrections:
+ - Feuille de route ne reste plus bloqué lors du chargement de la page.
+
 # v1.250502.1
 Corrections:
  - Répartition des parts AMO, AMC et RAC corrigées.

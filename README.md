@@ -1,3 +1,7 @@
+# v1.250506.2
+Corrections:
+ - Le test du triplet (les numéros régime, caisse, centre) de l'AMO sont maintenant correctement prit en compte lors de l'importation des trajets depuis TELEAMBU/TELETAXI. 
+ 
 # v1.250506.1
 Corrections:
  - Amelioration du test de l'equipage de la voiture lors des importations des trajets depuis les trajets de TELEAMBU/TELETAXI.

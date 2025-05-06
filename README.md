@@ -1,3 +1,8 @@
+# v1.250506.1
+Corrections:
+ - Amelioration du test de l'equipage de la voiture lors des importations des trajets depuis les trajets de TELEAMBU/TELETAXI.
+ - Isolement du code qui met en erreur la page du personnels de la société lors de son affichage.
+
 # v1.250505.1
 Corrections:
  - Feuille de route ne reste plus bloqué lors du chargement de la page.

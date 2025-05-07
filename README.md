@@ -1,6 +1,10 @@
-# v1.250507.1
+# v1.250507.2
 Corrections:
  - Le test du triplet de l'AMO n'empêche plus la sauvegarde de la prescription s'il n'y a aucune donnée pour la couverture AMO.
+
+# v1.250507.1
+Corrections:
+ - Dans les factures PDF sécu ne reprennez pas la couverture AMO par défaut de la prescription.
 
 # v1.250506.2
 Corrections:

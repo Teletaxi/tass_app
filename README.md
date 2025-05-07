@@ -1,3 +1,7 @@
+# v1.250507.1
+Corrections:
+ - Le test du triplet de l'AMO n'empêche plus la sauvegarde de la prescription s'il n'y a aucune donnée pour la couverture AMO.
+
 # v1.250506.2
 Corrections:
  - Le test du triplet (les numéros régime, caisse, centre) de l'AMO sont maintenant correctement prit en compte lors de l'importation des trajets depuis TELEAMBU/TELETAXI. 

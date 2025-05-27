@@ -1,3 +1,7 @@
+# v1.250527.1
+Fonctionnalités:
+ - Mise à jours des informations pour le recueil d'activité (RMG).
+
 # v1.250507.2
 Corrections:
  - Le test du triplet de l'AMO n'empêche plus la sauvegarde de la prescription s'il n'y a aucune donnée pour la couverture AMO.

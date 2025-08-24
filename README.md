@@ -1,3 +1,12 @@
+# v1.250824.2
+Fonctionnalités:
+ - Implementation complète des commanditaires et de la facturation des commanditaires.
+ - Ajout de nouveaux tableaux de facture pour l'éditeur de lettre.
+ - Pour la page des détails des trajets, les équipages n'apparaissement plus après la date d'inactivité. Sélection de date multiples pour la génération des dates plus les multiples transports.
+
+Corrections:
+ - Dans le détail des trajets, il est possible de sauvegarder une plus grande partie des données en une fois. Un message erreur lors du test des chevauchements peut apparaitre, mais cela ne bloque plus le processus de sauvegarde des données. Cette erreur sera corrigée dans une prochaine version du logiciel.
+
 # v1.250527.1
 Fonctionnalités:
  - Mise à jours des informations pour le recueil d'activité (RMG).

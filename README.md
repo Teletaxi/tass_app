@@ -1,3 +1,11 @@
+# v1.250826.1
+Fonctionnalités:
+ - Listing des commanditaires, pour ainsi récupérer le commanditaire du transport en création.
+ - Inversion possible entre les adresses de départ et d'arrivée.
+
+Corrections:
+ - Lors de la sauvegarde, les tests des champs sont maintenant corrigés.
+
 # v1.250824.2
 Fonctionnalités:
  - Implementation complète des commanditaires et de la facturation des commanditaires.

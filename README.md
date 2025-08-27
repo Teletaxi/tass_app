@@ -1,3 +1,8 @@
+# v1.250827.1
+Corrections:
+ - Le libellé de commanditaire dans la page du détail du transport commanditaire est correctement restitué.
+ - La facturation B2 n'est plus bloquée pour les prestations d'une prescription, ce bug est appararu lors de l'implémentation de la facturation des transports commanditaires.
+
 # v1.250826.1
 Fonctionnalités:
  - Listing des commanditaires, pour ainsi récupérer le commanditaire du transport en création.

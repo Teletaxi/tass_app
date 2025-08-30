@@ -1,3 +1,8 @@
+# v1.250830.1
+Corrections:
+ - Le blocage qui empéchait la facturation en SEFi et B2 des prestations d'une prescription est maintenant corrigé.
+ - Il y a une amélioration lors de la génération des calculs.
+
 # v1.250827.1
 Corrections:
  - Le libellé de commanditaire dans la page du détail du transport commanditaire est correctement restitué.

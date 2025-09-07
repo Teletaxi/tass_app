@@ -1,3 +1,7 @@
+# v1.250907.1
+Corrections:
+ - Prise charge des factures "libre" dans le chiffre d'affaire.
+
 # v1.250830.1
 Corrections:
  - Le blocage qui empéchait la facturation en SEFi et B2 des prestations d'une prescription est maintenant corrigé.

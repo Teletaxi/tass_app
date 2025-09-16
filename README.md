@@ -1,3 +1,8 @@
+# v1.250916.1
+Correcions:
+ - Traitement correct sur les prestations SEFi/B2/SECU qui ont été générées par une correction de facture, ce chargent correctement.
+ - Apres avoir sauvegarder une prestation LIBRE, les informations sont correctement remontées pour facturer ces prestations.
+
 # v1.250907.1
 Corrections:
  - Prise charge des factures "libre" dans le chiffre d'affaire.

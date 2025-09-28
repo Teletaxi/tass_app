@@ -1,5 +1,9 @@
+# v1.250928.1
+Fonctionnalités:
+ - A partir du 01/10/2025 avec la nouvelle convention, oblige d'utiliser les km GPS remontés par les boîtiers GPS comme km de facturation. Cette modification est appliquée lorsque le niveau de certification de géolocalisaion est comprit de 3 à 5.
+
 # v1.250916.1
-Correcions:
+Corrections:
  - Traitement correct sur les prestations SEFi/B2/SECU qui ont été générées par une correction de facture, ce chargent correctement.
  - Apres avoir sauvegarder une prestation LIBRE, les informations sont correctement remontées pour facturer ces prestations.
 

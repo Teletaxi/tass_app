@@ -1,3 +1,7 @@
+# v1.251021.1
+Fonctionnalités:
+ - Externalisations des positions GPS, ce qui permet une grande amélioration des délais de réponse pour les calculs des prestations (Générer les tarifs).
+
 # v1.250928.1
 Fonctionnalités:
  - A partir du 01/10/2025 avec la nouvelle convention, oblige d'utiliser les km GPS remontés par les boîtiers GPS comme km de facturation. Cette modification est appliquée lorsque le niveau de certification de géolocalisaion est comprit de 3 à 5.

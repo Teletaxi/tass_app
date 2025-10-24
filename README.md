@@ -1,3 +1,7 @@
+# v1.251024.1
+Corrections:
+ - Le test de géolocalisation qui empêche la facturation en tarification socle est corrigé.
+
 # v1.251021.1
 Fonctionnalités:
  - Externalisations des positions GPS, ce qui permet une grande amélioration des délais de réponse pour les calculs des prestations (Générer les tarifs).

@@ -1,3 +1,7 @@
+# v1.251027.1
+Corrections:
+ - L'affichage reporte correctement les Km GPS.
+   
 # v1.251024.1
 Corrections:
  - Le test de géolocalisation qui empêche la facturation en tarification socle est corrigé.

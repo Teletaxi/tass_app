@@ -1,3 +1,7 @@
+# v1.251029.1
+Corrections:
+ - Correction de l'indicateur jour/nuit/dimanche/ferié.
+
 # v1.251027.1
 Corrections:
  - L'affichage reporte correctement les Km GPS.

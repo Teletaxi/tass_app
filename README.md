@@ -1,3 +1,7 @@
+# v1.251031.1
+Corrections:
+ - Dans calculer montant prestation et controler recevabilité, il y a une correction sur la détermination de l'utilisation des KM GPS.
+
 # v1.251029.1
 Corrections:
  - Correction de l'indicateur jour/nuit/dimanche/ferié.

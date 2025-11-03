@@ -1,3 +1,7 @@
+# v1.251103.1
+Corrections:
+ - Report des km GPS dans le service "valider".
+
 # v1.251031.1
 Corrections:
  - Dans calculer montant prestation et controler recevabilité, il y a une correction sur la détermination de l'utilisation des KM GPS.

@@ -1,3 +1,7 @@
+# v1.251118.1
+Corrections:
+ - Mise en standby de la recherche bénéficiaires depuis la page d'edition d'une prescription, il y a de fort ralentissement pour certains clients.
+
 # v1.251103.1
 Corrections:
  - Report des km GPS dans le service "valider".

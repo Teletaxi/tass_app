@@ -1,3 +1,9 @@
+# v1.251210.1
+Fonctionnalités:
+ - Il est maintenant possible d'ignorer les positions GPS pour les trajets dans la facturation.
+ - Dans le détails des trajets, là où sont renseignés les dates et horaires des trajets, un double clique dans la zone de l distance parcourue pour le renseigner directement avec la distance GPS.
+ - Un filtrage par lettre à été ajouté dans la liste des bénéficiaires.
+
 # v1.251118.1
 Corrections:
  - Mise en standby de la recherche bénéficiaires depuis la page d'edition d'une prescription, il y a de fort ralentissement pour certains clients.

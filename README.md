@@ -1,3 +1,8 @@
+# v1.251219.1
+Corrections:
+ - Le traitement des importations de transport depuis TELAMBU ou TELETAXI ce passe correctement.
+ - Ignorer les positions GPS pour la facturations des trajets, ce fait correctement.
+
 # v1.251210.1
 Fonctionnalités:
  - Il est maintenant possible d'ignorer les positions GPS pour les trajets dans la facturation.

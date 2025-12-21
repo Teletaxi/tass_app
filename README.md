@@ -1,4 +1,8 @@
 # v1.251219.1
+Functionnalités:
+ - Ajout de pages pour la comptabilités.
+
+# v1.251219.1
 Corrections:
  - Le traitement des importations de transport depuis TELAMBU ou TELETAXI ce passe correctement.
  - Ignorer les positions GPS pour la facturations des trajets, ce fait correctement.

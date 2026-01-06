@@ -1,3 +1,8 @@
+# v1.260106.1
+Corrections:
+ - En tant que société certifiée (GPS - tarification majorée), lorsque la facture est établie en mode B2, le calcul du montant de la courte distance est en phase avec la distance renseignée et non avec la distance GPS.
+ - Amélioration des chargements des pages du planning.
+
 # v1.251221.1
 Functionnalités:
  - Ajout de pages pour la comptabilités.

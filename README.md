@@ -1,3 +1,7 @@
+# v1.260108.1
+Corrections:
+ - Affichage immédiat du bénéficiaire dans la prescription papier.
+
 # v1.260106.1
 Corrections:
  - En tant que société certifiée (GPS - tarification majorée), lorsque la facture est établie en mode B2, le calcul du montant de la courte distance est en phase avec la distance renseignée et non avec la distance GPS.

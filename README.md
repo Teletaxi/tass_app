@@ -1,3 +1,11 @@
+# v1.260122.1
+Corrections:
+ - Dans les retours NOEMIE une erreur était remontée du à un traitement de certaines parts AMC et provoquaient un arrêt des traitements du NOEMIE en question et des suivants, cela est maintenant corrigé.
+ - Dans les pages des factures des impayées et des factures non envoyées, tout les liens sont fonctionnelles. Ils redirigent bien vers les prescriptions, prestations, bénéficiaires et les différentes AMO/AMC.
+
+Fonctionnalités:
+ - Lors de la saissie des kilomètres, une nouvelle fonctionnalité est présente, un boutton d'affinage des périodes des trajets de façon visuel (avec une carte) améliore l'expérience de recherche des différentes positions GPS.
+
 # v1.260108.1
 Corrections:
  - Affichage immédiat du bénéficiaire dans la prescription papier.
@@ -8,7 +16,7 @@ Corrections:
  - Amélioration des chargements des pages du planning.
 
 # v1.251221.1
-Functionnalités:
+Fonctionnalités:
  - Ajout de pages pour la comptabilités.
 
 # v1.251219.1

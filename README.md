@@ -1,3 +1,7 @@
+# v1.260123.1
+Fonctionnalités:
+ - Ajout, le péage peut être renseigné au niveau des détails des trajets (Dates, heures, équipages) et ainsi être utilisé dans la tarification lors de la génération des tarifs.
+
 # v1.260122.1
 Corrections:
  - Dans les retours NOEMIE une erreur était remontée du à un traitement de certaines parts AMC et provoquaient un arrêt des traitements du NOEMIE en question et des suivants, cela est maintenant corrigé.

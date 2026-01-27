@@ -1,3 +1,7 @@
+# v1.260127.1
+Corrections:
+ - Tentative de correction des noemie qui ne sont pas traités.
+
 # v1.260123.1
 Fonctionnalités:
  - Ajout, le péage peut être renseigné au niveau des détails des trajets (Dates, heures, équipages) et ainsi être utilisé dans la tarification lors de la génération des tarifs.

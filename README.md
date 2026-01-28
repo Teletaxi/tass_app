@@ -1,3 +1,7 @@
+# v1.260128.1
+Corrections:
+ - Le PDF de facture ce génère correctement s'il n'y a pas de géolocalisation.
+
 # v1.260127.1
 Corrections:
  - Tentative de correction des noemie qui ne sont pas traités.

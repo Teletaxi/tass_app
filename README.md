@@ -1,3 +1,7 @@
+# v1.260203.1
+Corrections:
+ - Modification de l'url qui permet le géocodage des adresses.
+
 # v1.260129.1
 Corrections:
  - L'affinage des trajets tient bien compte des trajets "retour", en inversant le départ et l'arrivée.

@@ -1,3 +1,13 @@
+# v1.260217.1
+Corrections:
+ - Lors de la mise en correction d'une facture et qui est demandé de recopier les prestations cela ce fait correctement.
+ - La prise en compte des péages et des simultanés depuis le détail des trajets sont correctements reportés dans la facturation.
+ - La convertion automatique des PDF non-couleur n'est plus systématique si le PDF original est deja en noir et blanc ou en nuance de gris.
+
+Fonctionnalités:
+ - On peut maintenant demander l'itinéraie depuis Google Maps, comme pour ViaMichelin.
+ - Un nouvel écran pour les factures du jour par défaut (ou par période aussi) est maintenant disponible.
+
 # v1.260203.1
 Corrections:
  - Modification de l'url qui permet le géocodage des adresses.

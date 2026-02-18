@@ -1,3 +1,7 @@
+# v1.260218.1
+Fonctionnalités:
+ - Le journal des ventes prend maintenant une période en entrée, non plus le mois et l'année seulement.
+
 # v1.260217.1
 Corrections:
  - Lors de la mise en correction d'une facture et qui est demandé de recopier les prestations cela ce fait correctement.

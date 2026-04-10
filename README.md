@@ -1,3 +1,7 @@
+# v1.260410.1
+Fonctionnalités:
+ - Implémentation des signatures bénéficiaires. Les sociétés peuvents aussi saissir une signature et un tampon. Ces informations peuvent être retrouvées dans les documents comme les factures et annexes.
+
 # v1.260218.1
 Fonctionnalités:
  - Le journal des ventes prend maintenant une période en entrée, non plus le mois et l'année seulement.

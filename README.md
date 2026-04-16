@@ -1,3 +1,8 @@
+# v1.260416.1
+Fonctionnalités:
+ - Ajout d'une carte avec les points GPS sur la page de la liste des positions GPS d'un boitier GPS.
+ - Filtrage des positions erronées des boitiers GPS, qui pouvaient fausser le calcul des distances GPS.
+ 
 # v1.260410.1
 Fonctionnalités:
  - Implémentation des signatures bénéficiaires. Les sociétés peuvents aussi saissir une signature et un tampon. Ces informations peuvent être retrouvées dans les documents comme les factures et annexes.

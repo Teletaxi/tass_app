@@ -1,3 +1,8 @@
+# v1.260526.1
+Fonctionnalités:
+ - Début d'implémentation de la nouvelle convention taxi du 1er novembre 2025.
+ - Ajout de la notion de prescription TPMR, ce qui permettra d'ajouté les suppléments TPMR automatiquement et d'éviter l'attribution de véhicule non adaptés à ce type de trasport.
+
 # v1.260416.1
 Fonctionnalités:
  - Ajout d'une carte avec les points GPS sur la page de la liste des positions GPS d'un boitier GPS.

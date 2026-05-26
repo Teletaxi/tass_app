@@ -5,6 +5,7 @@ Fonctionnalités:
 
 Corrections:
  - Ajout d'une limite de pièces justificatives lors de la mise en lot, car ce dernier réclamait beaucoup trop de ressource et ne pour pas terminer avant qu'un timeout du serveur ne soit déclancé.
+ - Amélioration du traitements des retours NOEMIE, SCOR et B2. Ils sont ensuite supprimés du serveur. Ainsi on devrait gagner en rapidité.
 
 # v1.260416.1
 Fonctionnalités:

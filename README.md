@@ -1,3 +1,7 @@
+# v1.260530.1
+Corrections:
+ - L'erreur de génération pour l'annexe à la facture est corrigée.
+   
 # v1.260526.1
 Fonctionnalités:
  - Début d'implémentation de la nouvelle convention taxi du 1er novembre 2025.

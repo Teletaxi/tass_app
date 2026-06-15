@@ -1,3 +1,10 @@
+# v1.260616.1
+Corrections:
+ - Les trajets importés depuis TELETAXI et TELEAMBU, sont maintenant correctement supprimés quand on utilise le bouton supprimé.
+ - Le numéro adhérent du bénéficiaire apparaît correctement dans les lettres.
+ - L'erreur "Précison is not define" est maintenant corrigée lors du chargement de la page du détail de la tarification des prestations de trajet.
+ - Le lien vers la prescription depuis la page des factures fonctionne de nouveau. 
+
 # v1.260530.1
 Corrections:
  - L'erreur de génération pour l'annexe à la facture est corrigée.

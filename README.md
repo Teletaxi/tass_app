@@ -1,3 +1,7 @@
+# v1.260623.1
+Corrections:
+ - Lors de la détermination du niveau de certification de géolocalisation, si le trajet est inférieure à 1km, le système refusait de certifier correctement la géolocalisation, ceci est maintenant corrigé.
+
 # v1.260616.1
 Corrections:
  - Les trajets importés depuis TELETAXI et TELEAMBU, sont maintenant correctement supprimés quand on utilise le bouton supprimé.

@@ -1,3 +1,7 @@
+# v1.260624.1
+Corrections:
+- Harmonisation du comportement de la détermination du niveau de certification de la géolocalisation au niveau des différentes pages. Certaines pages ne déterminaient pas le même niveau de certification.
+
 # v1.260623.1
 Corrections:
  - Lors de la détermination du niveau de certification de géolocalisation, si le trajet est inférieure à 1km, le système refusait de certifier correctement la géolocalisation, ceci est maintenant corrigé.

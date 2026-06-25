@@ -1,3 +1,7 @@
+# v1.260625.1
+Corrections:
+- Correction de la répartition deu temps pour le samedi 12h, pour ce genre de trajet le temps ne se réparti pas intégralement lorsque plus de la moitié du temps du transport est effectuée après 12h pour une tarification "dimanche et férié" comme la "nuit", mais si le trajet commence avant 12h, c'est l'intégralité du temps qui est appliqué en "jours".
+
 # v1.260624.1
 Corrections:
 - Harmonisation du comportement de la détermination du niveau de certification de la géolocalisation au niveau des différentes pages. Certaines pages ne déterminaient pas le même niveau de certification.
